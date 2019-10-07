@@ -1,0 +1,56 @@
+body {
+    background-image: url("../images/background.jpg");
+    text-align: center;
+    width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+h1 {
+    font-size: 75px;
+    color:white;
+    text-align: center; 
+    background-color: black;
+    border-style: dotted;
+  
+}
+
+.details {
+    font-size: 25px;
+    color:rgb(153, 56, 192);
+    text-align: center; 
+    background-color: black;
+    margin-top: 25px;
+}
+
+.value {
+    font-size: 16px;
+    color:rgb(153, 56, 192);
+    text-align: center; 
+    background-color: black;
+    margin-top: 25px;
+}
+
+.score {
+    font-size: 15px;
+    color:rgb(153, 56, 192);
+    text-align: center; 
+    background-color: black;
+    margin-top: 25px;
+}
+
+#gems {
+    font-size: 15px;
+    color:rgb(153, 56, 192);
+    text-align: center; 
+    background-color: black;
+    margin-top: 25px;
+}
+
+p {
+    color:rgb(153, 56, 192);
+    text-align: center; 
+    background-color: black;
+    margin-top: 25px;
+}
+
