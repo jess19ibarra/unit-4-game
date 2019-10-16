@@ -60,7 +60,7 @@ var checkWins = function () {
         alert("you won");
         console.log("you won");
         win++;
-        $("#win").html(win);
+        $("#wins").html(win);
         //restart game
         game();
     }
